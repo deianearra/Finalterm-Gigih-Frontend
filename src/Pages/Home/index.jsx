@@ -50,7 +50,7 @@ function Home() {
             <div className="main-container">
                 <Navbar />
                 <ListVideo />
-                <ListCard ListCard={listCard} img="https://i.scdn.co/image/ab6761610000e5ebf173136b94ae2f75f49f8b2b" />
+                <ListCard ListCard={listCard} img="https://cdn1.katadata.co.id/media/images/thumb/2022/11/14/KARAKTER_ANIME_RAMBUT_PINK-2022_11_14-16_59_26_e302c2147b3a7b128573773b0dc5e694_960x640_thumb.jpg" />
             </div>
             <div>
                 <h1>Home</h1>
