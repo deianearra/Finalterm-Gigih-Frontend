@@ -12,6 +12,7 @@
     display: flex;
     gap: 20px;
     overflow: hidden;
+    flex-wrap: wrap;
 }
 
 .spotify-playlists .list .item {
