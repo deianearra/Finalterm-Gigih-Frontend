@@ -5,7 +5,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
 
 import Sidebar from "../../Components//Organism/Sidebar";
-import Navbar from "../../Components/Organism/Navbar";
 import ListCard from "../../Components/Molecule/ListCard";
 import ListVideo from "../../Components/Molecule/ListVideo";
 
