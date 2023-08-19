@@ -61,6 +61,7 @@ function Video() {
         <>
             <Sidebar />
             <div className="main-container">
+                <Navbar />
                 <div className="flex flex-nowrap">
                     <Product ListData={product} />
                     <Youtube videoID={video.videoID} title={video.videoTitle} />
