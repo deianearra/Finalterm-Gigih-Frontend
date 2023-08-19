@@ -10,39 +10,39 @@ import ListCard from "../../Components/Molecule/ListCard";
 import ListVideo from "../../Components/Molecule/ListVideo";
 
 function Home() {
-    const listCard = [
-        {
-            title: "Today's Top Hits",
-            description: "Rema & Selena Gomez are on top of the..."
-        },
-        {
-            title: "RapCaviar",
-            description: "New Music from Lil Baby, Juice WRLD an..."
-        },
-        {
-            title: "All out 2010s",
-            description: "The biggest spmgs pf tje 2010s. Cover:..."
-        },
-        {
-            title: "Rock Classics",
-            description: "Rock Legends & epic songs that continue t..."
-        },
-        {
-            title: "Chill Hits",
-            description: "Kick back to the best new and recent chill..."
-        },
-        {
-            title: "Hot Country",
-            description: "The hottest songs in Country music. Cover..."
-        },
-        {
-            title: "Are & Be",
-            description: "The best R&B songs of 2020. Cover: Lucky..."
-        },
-        {
-            title: "Signed XOXO",
-            description: "The best new music from Atlantic Records..."
-        }
+   const listCard = [
+    {
+        title: "Anime Hits Bonanza",
+        description: "Dive into the enchanting world of anime music!"
+    },
+    {
+        title: "Jpop Jubilation",
+        description: "Celebrate the catchy beats of Jpop stars and groups."
+    },
+    {
+        title: "Nostalgic Anime Openings",
+        description: "Revisit the unforgettable anime opening tracks from the past."
+    },
+    {
+        title: "Epic Soundtracks Odyssey",
+        description: "Embark on a journey through epic soundtracks from your favorite anime."
+    },
+    {
+        title: "Dreamy Jpop Melodies",
+        description: "Immerse yourself in the soothing melodies of Jpop ballads."
+    },
+    {
+        title: "Kawaii Beats Galore",
+        description: "Experience the cutest and most energetic anime and Jpop tunes."
+    },
+    {
+        title: "Anime Groove Fusion",
+        description: "Feel the rhythm with a fusion of anime and Jpop grooves."
+    },
+    {
+        title: "Magical Jpop Spell",
+        description: "Enchanting new releases from the magical world of Jpop."
+    }
     ]
     return (
         <>
