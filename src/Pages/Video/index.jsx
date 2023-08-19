@@ -7,7 +7,6 @@ import "./index.css";
 import { Button, TextInput } from 'flowbite-react';
 
 import Sidebar from "../../Components/Organism/Sidebar";
-import Navbar from "../../Components/Organism/Navbar";
 import Product from "../../Components/Molecule/Product";
 import Comment from "../../Components/Molecule/Comment";
 import Youtube from "../../Components/Atom/Youtube";
